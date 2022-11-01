@@ -1,6 +1,10 @@
 # WeLoveMovies Frontend Application
 
-This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
+[This is the Front End Application for the WeLoveMovies Backend project.](https://github.com/mbocianski/we-love-movies-backend)
+
+[Launch Application](https://serene-depths-42609.herokuapp.com/)
+
+Follow the instructions below.
 
 ## Installation
 
